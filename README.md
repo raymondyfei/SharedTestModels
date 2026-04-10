@@ -15,9 +15,9 @@ Consistent, freely available test assets make it easier to validate renderers, c
 | File | Format | Description |
 |------|--------|-------------|
 | `a_cute_cat_float32.ply` | PLY (float32) | A cat figurine, stored as a standard 3DGS PLY file with float32 attributes |
-| `adobe_backpack.spz` | SPZ | A backpack, stored in the SPZ compressed splat format |
-| `scarf.spz` | SPZ | A scarf, stored in the SPZ compressed splat format |
-| `sparkling_water.spz` | SPZ | A can of sparkling water, stored in the SPZ compressed splat format |
+| `adobe_backpack.spz` | SPZ | A backpack, stored in the SPZ compressed splat format, containing Adobe-specific extensions |
+| `scarf.spz` | SPZ | A high-quality scarf, stored in the SPZ compressed splat format, containing 4-th order spherical harmonics |
+| `sparkling_water.spz` | SPZ | A shinny can of sparkling water, stored in the SPZ compressed splat format, containing visible 4-th order spherical harmonics |
 
 ## Formats
 
