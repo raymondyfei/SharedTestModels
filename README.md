@@ -10,6 +10,7 @@ Small, CC0-licensed Gaussian splat fixtures for integration tests, benchmarks, a
 | Backpack | `adobe_backpack.ply`, `adobe_backpack.spz` | Same subject; Adobe-specific extensions in SPZ |
 | Scarf | `scarf.ply`, `scarf.spz` | High quality; 4th-order SH in SPZ |
 | Sparkling water | `sparkling_water.ply`, `sparkling_water.spz` | Reflective surface; visible 4th-order SH in SPZ |
+| Seashell | `seashell.ply` | |
 
 **PLY** — Standard 3DGS point cloud; wide loader support. **SPZ** — Niantic’s compressed format; see [nianticlabs/spz](https://github.com/nianticlabs/spz).
 
