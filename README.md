@@ -1,8 +1,8 @@
-# Shared Gaussian Splat Test Assets
+# Shared 3D Test Assets
 
-Small, CC0-licensed Gaussian splat fixtures for integration tests, benchmarks, and format tooling across the 3DGS ecosystem.
+Small, CC0-licensed 3D model fixtures for integration tests, benchmarks, and format tooling. Includes Gaussian splats, triangular meshes, and other 3D representations.
 
-## Files
+## Gaussian Splats
 
 | Asset | Files | Notes |
 |--------|--------|--------|
@@ -13,6 +13,10 @@ Small, CC0-licensed Gaussian splat fixtures for integration tests, benchmarks, a
 | Seashell | `seashell.ply`, `seashell.spz` | A seashell with sophisticated texture |
 
 **PLY** — Standard 3DGS point cloud; wide loader support. **SPZ** — Niantic’s compressed format; see [nianticlabs/spz](https://github.com/nianticlabs/spz).
+
+## Meshes
+
+Triangular meshes and other surface representations will be added here.
 
 ## Usage
 
